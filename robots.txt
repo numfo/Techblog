@@ -1,1 +1,1 @@
-Sitemap: https://numfo.github.io/techblog/sitemap.xml
+Sitemap: https://techblog.yedime.come/sitemap.xml
